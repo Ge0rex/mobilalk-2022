@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397058484188",
+    "project_id": "mobilalk-97a24",
+    "storage_bucket": "mobilalk-97a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397058484188:android:f6957df1021b8ab8029119",
+        "android_client_info": {
+          "package_name": "com.example.mobilalk_autobolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397058484188-hv5ub8k27b4sjl3u5teg4ocv69v4k6qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilalk_autobolt",
+            "certificate_hash": "6707671238d075a5297700db079ddea10572b0ab"
+          }
+        },
+        {
+          "client_id": "397058484188-ro2hrb9il5b5lga7khrbodo89ueun40p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcsP1rBBtGb-CFsYuHnCLE-r6dYcbKwqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397058484188-ro2hrb9il5b5lga7khrbodo89ueun40p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Car Parts</string>
+    <string name="name">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="registration">Register</string>
+    <string name="user_name">Username</string>
+    <string name="email_address">E-mail address</string>
+    <string name="password_again">Password Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+    <string name="product_description">Item description</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Description</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Add to cart</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="shopping_item_names">
+        <item>Air Intake</item>
+        <item>Cam Gear</item>
+        <item>Clutch</item>
+        <item>Crankshaft</item>
+        <item>Cylinder Head</item>
+        <item>Differential</item>
+        <item>Flywheel</item>
+        <item>Intake Manifold</item>
+        <item>Intercooler</item>
+        <item>Muffler</item>
+        <item>Spark Plug</item>
+        <item>Transmission Cooler</item>
+        <item>Twin Turbocharger</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Takeda Attack Stage-2 Pro Cold Air Intake System</item>
+        <item>AEM Tru-Time Adjustable Cam Gear</item>
+        <item>Pinto Clutch Kit</item>
+        <item>Mountune Fully Counterweighted 1.6L EcoBoost Crankshaft</item>
+        <item>VEVOR Cylinder Head 18MM</item>
+        <item>Used Mercedes-Benz C 280/300 T-Model Differential</item>
+        <item>Schaeffler LuK DMF082 Dual Mass Flywheel</item>
+        <item>Pro Intake Manifold - D Series - Black</item>
+        <item>FMC Universal 500 x 300 x 76mm Intercooler</item>
+        <item>INJEN SES1838</item>
+        <item>Denso Spark Plug Standard X24ESRU</item>
+        <item>JEGS High Performance Transmission Cooler</item>
+        <item>HKS GTII 7867 Symmetry Twin Turbo</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>2.5</item>
+        <item>3.5</item>
+        <item>5</item>
+
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/air_intake</item>
+        <item>@drawable/cam_gear</item>
+        <item>@drawable/clutch</item>
+        <item>@drawable/crankshaft</item>
+        <item>@drawable/cylinder_head</item>
+        <item>@drawable/differential</item>
+        <item>@drawable/flywheel</item>
+        <item>@drawable/intake_manifold</item>
+        <item>@drawable/intercooler</item>
+        <item>@drawable/muffler</item>
+        <item>@drawable/spark_plug</item>
+        <item>@drawable/transmission_cooler</item>
+        <item>@drawable/twin_turbo_charger</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>400 Cr</item>
+        <item>100 Cr</item>
+        <item>250 Cr</item>
+        <item>250 Cr</item>
+        <item>575 Cr</item>
+        <item>400 Cr</item>
+        <item>70 Cr</item>
+        <item>370 Cr</item>
+        <item>290 Cr</item>
+        <item>600 Cr</item>
+        <item>30 Cr</item>
+        <item>500 Cr</item>
+        <item>900 Cr</item>
+    </array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>

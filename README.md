@@ -1,1 +1,1 @@
-# mobilalk-2022
+Ha valami nem található vagy kérdésed van akkor discord: kula#5422
